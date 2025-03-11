@@ -22,4 +22,10 @@ Learned:
 - how to map threads to multidimensional data
 - read half of chapter 3 of PMPP book
 
+#### Day 3
+File : mat_mul.cu \
+Details: Implemented the matrix multiplication kernel mentioned in the third chapter of PMPP book. \
+Learned:
+- Almost same learning as day2 continued as I was still finishing the remaining 3rd chapter.
+
 
